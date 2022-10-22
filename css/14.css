@@ -1,0 +1,8 @@
+.heading,
+.descripcion {
+    color: red;
+}
+
+p:not(.texto):not(.oferta) {
+    color: red;
+}
